@@ -20,4 +20,4 @@ The Pub-sub pattern is more loosely coupled than the observer pattern, which mea
 
 ## Conclusion
 
-Pub sub wins!
+Pub sub seems to be the more modern approach due to it's better handeling of multithreaded applications.
